@@ -1,7 +1,4 @@
 # Hello, World! 👋
-I'm [Your Name], a passionate [Your Role] with a knack for building [Your Interests/Projects].
-
-
 
 ## 🚀 Tech Stack
 
