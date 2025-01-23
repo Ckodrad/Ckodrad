@@ -6,11 +6,17 @@
 
 ## 🚀 Tech Stack
 
+Here are the tools, languages, and frameworks I’ve worked with throughout my journey:
+
+<br>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,js,java,c,cpp,swift,ts" />
   </a>
 </p>
+
+<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -18,11 +24,15 @@
   </a>
 </p>
 
+<br>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,github,gitlab,vscode,linux,bash" />
   </a>
 </p>
+
+<br>
 
 <p align="center">
   <a href="https://keras.io/">
@@ -52,10 +62,13 @@
   <a href="https://www.tensorflow.org/">
     <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
   </a>
+  <a href="https://www.tensorflow.org/">
+    <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)" />
+  </a>
 </p>
 
 
 ## 📊 GitHub Stats
 [![Clement's stats](https://github-readme-stats.vercel.app/api?username=Ckodrad)](https://github.com/Ckodrad/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ckodrad&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ckodrad)](https://github.com/anuraghazra/github-readme-stats)
 
