@@ -25,6 +25,3 @@
 [![Clement's stats](https://github-readme-stats.vercel.app/api?username=Ckodrad)](https://github.com/Ckodrad/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ckodrad&langs_count=8)
 
-## 🌐 Connect With Me
-- [Portfolio Website](link-to-your-portfolio)
-- [LinkedIn](https://www.linkedin.com/in/clement-kodradjaja/)
