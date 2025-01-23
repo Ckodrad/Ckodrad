@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hello, World! 👋
+I'm [Your Name], a passionate [Your Role] with a knack for building [Your Interests/Projects].
 
-<!--
-**Ckodrad/Ckodrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills & Tools
 
-Here are some ideas to get you started:
+### 🖋️ Languages
+<table style="border: none;">
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="https://cdn.svgporn.com/logos/python.svg" alt="Python Logo" width="50">
+      <br>Python
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript Logo" width="50">
+      <br>JavaScript
+    </td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Frameworks
+<table style="border: none;">
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="https://cdn.svgporn.com/logos/react.svg" alt="React Logo" width="50">
+      <br>React
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://cdn.svgporn.com/logos/django.svg" alt="Django Logo" width="50">
+      <br>Django
+    </td>
+  </tr>
+</table>
+
+---
+
+### ⚙️ Tools
+<table style="border: none;">
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="https://cdn.svgporn.com/logos/git-icon.svg" alt="Git Logo" width="50">
+      <br>Git
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="Docker Logo" width="50">
+      <br>Docker
+    </td>
+  </tr>
+</table>
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+## 🌐 Connect With Me
+- [Portfolio Website](link-to-your-portfolio)
+- [LinkedIn](https://www.linkedin.com/in/clement-kodradjaja/)
