@@ -6,8 +6,6 @@
 
 ## 🚀 Tech Stack
 
-Here are the tools, languages, and frameworks I’ve worked with throughout my journey:
-
 <br>
 
 <p align="center">
