@@ -1,5 +1,5 @@
 # Hello, World! 👋
-- 🎓 Currently a student at the [University of London](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.london.ac.uk/&ved=2ahUKEwiY57KZxouLAxVjyzgGHcIuCf4QFnoECD0QAQ&usg=AOvVaw1s0efWDfN-PAIQHaNZu4B_)
+- 🎓 Computer Science Graduate from the [University of London](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.london.ac.uk/&ved=2ahUKEwiY57KZxouLAxVjyzgGHcIuCf4QFnoECD0QAQ&usg=AOvVaw1s0efWDfN-PAIQHaNZu4B_)
 - 💻 Pursuing a degree in Computer Science with a specialization in Artificial Intelligence
 - 🤖 Passionate about AI and exploring its applications and theoretical foundations
 - 🌟 Always eager to learn and contribute to the AI field
